@@ -39,7 +39,7 @@ execnet==2.0.2
 fastapi==0.110.0
 feedfinder2==0.0.4
 feedparser==6.0.11
-filelock==3.13.1
+filelock==3.20.3
 flatbuffers==23.5.26
 frozenlist==1.4.1
 fsspec==2023.10.0
@@ -169,7 +169,7 @@ Pygments==2.17.2
 PyMuPDF==1.23.25
 PyMuPDFb==1.23.22
 pynndescent==0.5.11
-pypdf==4.0.2
+pypdf==6.6.0
 PyPika==0.48.9
 pyproject_hooks==1.0.0
 pyreadline3==3.4.1
